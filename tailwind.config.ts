@@ -9,9 +9,10 @@ module.exports = {
     extend: {
       colors: {
         brand: {
-          primary: '#0d9488',    // Deep teal - trust
+          DEFAULT: '#0d9488',    // Deep teal - trust
           dark: '#0f766e',       // Darker teal
           light: '#14b8a6',      // Lighter teal
+          primary: '#0d9488',    // Legacy alias
         },
         accent: {
           DEFAULT: '#f97316',    // Coral - action

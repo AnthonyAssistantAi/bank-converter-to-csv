@@ -393,7 +393,7 @@ export default function Home() {
           </div>
           
           <h1 className="text-5xl font-bold mb-6 leading-tight text-charcoal">
-            Convert Bank Statements
+            Convert Bank Statements to CSV
             <br />
             <span className="text-brand">
               Without the Privacy Risk
